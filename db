@@ -1,0 +1,9 @@
+Postgres cluster fagkveld-db created
+  Username:    postgres
+  Password:    e1d6c0dc248013f275b1341f0a4a2e81e7018d6af51e6d95
+  Hostname:    fagkveld-db.internal
+  Proxy Port:  5432
+  PG Port: 5433
+Save your credentials in a secure place -- you won't be able to see them again!
+WWWWWWWWWWWWWW
+Monitoring Deployment
