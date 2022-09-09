@@ -14,8 +14,7 @@ class ObjectMapper {
         }
 
         private fun buildObjectMapper(): ObjectMapper {
-            val objectMapper = ObjectMapper()
-            return objectMapper
+            return ObjectMapper()
         }
     }
 }
